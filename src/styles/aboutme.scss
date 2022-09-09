@@ -1,0 +1,16 @@
+.button-default {
+  background-color: #49bf9d;
+  border: 3px solid #49bf9d;
+  color: white;
+  padding: 0.75em 1.5em;
+  border-radius: 5px;
+  font-size: 0.8em;
+  display: inline-block;
+  width: auto;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.button-default:hover {
+  background-color: #5ddeb9;
+  border-color: transparent;
+}
